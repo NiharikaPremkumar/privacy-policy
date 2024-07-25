@@ -1,0 +1,22 @@
+## Privacy Policy for Cookie Jar
+
+### Introduction
+Cookie Jar is a Chrome extension that helps users view and manage cookies on their current webpage.
+
+### Data Collection
+Cookie Jar collects cookie data from the current webpage to display information about cookies to the user.
+
+### Usage of Data
+The collected cookie data is used only to display details about the cookies on the current page. We do not use the data for any other purposes.
+
+### Data Sharing
+We do not share collected data with third parties.
+
+### Data Security
+We implement industry-standard security measures to protect collected data.
+
+### User Rights
+Users can request access to or deletion of their data by contacting us at [your contact email].
+
+### Contact Information
+For any questions regarding this privacy policy, please contact us at [your contact email].
